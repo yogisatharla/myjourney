@@ -1,0 +1,6 @@
+ls
+mkdir
+cp
+rm
+mv
+
